@@ -7,3 +7,5 @@ Egy közös fejlesztésű weboldal
 | Filimon Márk | szerver oldali es6 |
 | Tóth Richárd | sok mindenhez is ért |
 | Istók István | minden |
+| Barnák Dániel | a legokosabb :) |
+
