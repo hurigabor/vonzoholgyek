@@ -8,4 +8,4 @@ Egy közös fejlesztésű weboldal
 | Tóth Richárd | sok mindenhez is ért |
 | Istók István | minden |
 | Barnák Dániel | a legokosabb :) |
-
+| Kócs Máté | dizájn tervezés |
