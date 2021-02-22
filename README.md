@@ -12,4 +12,4 @@ Egy közös fejlesztésű weboldal
 | Karátsony Ádám | mindenes |
 | Kántor Zoltán | humor |
 
-A készülő oldal megtekintése [Itt](https://htmlpreview.github.io/?https://github.com/hurigabor/vonzoholgyek/blob/main/index.html)
+A készülő oldal megtekintése <a target="_blank" href="https://htmlpreview.github.io/?https://github.com/hurigabor/vonzoholgyek/blob/main/index.html">Itt</a>
