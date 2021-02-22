@@ -11,3 +11,5 @@ Egy közös fejlesztésű weboldal
 | Kócs Máté | dizájn tervezés |
 | Karátsony Ádám | mindenes |
 | Kántor Zoltán | humor |
+
+A készülő oldal megtekintése [Itt](https://htmlpreview.github.io/?https://github.com/hurigabor/vonzoholgyek/blob/main/index.html)
