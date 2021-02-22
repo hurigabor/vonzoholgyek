@@ -10,3 +10,4 @@ Egy közös fejlesztésű weboldal
 | Barnák Dániel | a legokosabb :) |
 | Kócs Máté | dizájn tervezés |
 | Karátsony Ádám | mindenes |
+| Kántor Zoltán | humor |
