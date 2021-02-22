@@ -5,14 +5,14 @@ window.addEventListener('load', () => {
     
     getGirlsIcon()
 
-    let cols = document.getElementsByClassName('col-sm')
+    let cols = document.getElementsByClassName('icon')
     let counter = 0
 
     for(let i=0; i<cols.length; i++){
         for(let j=0; j<3; j++){
             const img = document.createElement('img')
             img.src = iconArray[counter++]
-            img.classList.add('img-fluid', 'col-sm-4')
+            img.classList.add('img-fluid', 'col-sm-4', 'p-1')
             cols[i].appendChild(img)
         }
     }
