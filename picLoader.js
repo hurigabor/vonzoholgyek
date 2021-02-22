@@ -28,6 +28,7 @@ const displayBigPic = (icons) => {
         child.addEventListener('click', () => {
             const img = document.createElement('img')
             img.src = bigArray[index]
+            img.classList.add('img-fluid','rounded')
             img.id = 'pic'
             if(document.getElementById('pic')){
                 document.getElementById('pic').src = bigArray[index]
