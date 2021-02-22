@@ -3,17 +3,40 @@ const bigArray = []
 
 window.addEventListener('load', () => {
     
-    getGirlsIcon()
-
     let icons = document.getElementById('icons')
 
-    iconArray.forEach(pic => {
+    getGirlsIcon()
+    getGirlsBig()
+
+    displayIcons()
+
+    displayBigPic(icons)
+    
+})
+
+const displayIcons = () => {
+    iconArray.forEach((pic) => {
         const img = document.createElement('img')
         img.src = pic
         img.classList.add('img-fluid', 'col-sm-4', 'p-1')
         icons.appendChild(img)
     })
-})
+}
+
+const displayBigPic = (icons) => {
+    icons.childNodes.forEach((child, index) => {
+        child.addEventListener('click', () => {
+            const img = document.createElement('img')
+            img.src = bigArray[index]
+            img.id = 'pic'
+            if(document.getElementById('pic')){
+                document.getElementById('pic').src = bigArray[index]
+            }else{
+                document.getElementById('bigPic').appendChild(img)
+            }
+        })
+    })
+}
 
 const getGirlsIcon = () => {
     for(let i=1; i<=18; i++){
