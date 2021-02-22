@@ -9,3 +9,4 @@ Egy közös fejlesztésű weboldal
 | Istók István | minden |
 | Barnák Dániel | a legokosabb :) |
 | Kócs Máté | dizájn tervezés |
+| Karátsony Ádám | mindenes |
