@@ -9,3 +9,8 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+
+#icons img {
+    max-height: 200px;
+    cursor: pointer;
+}
