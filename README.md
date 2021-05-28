@@ -12,5 +12,6 @@ Egy közös fejlesztésű weboldal
 | Karátsony Ádám | mindenes |
 | Kántor Zoltán | humor |
 | Kiss Attila | nem jár órára |
+| Huri Gábor | nem jár órára |
 
 A készülő oldal megtekintése <a target="_blank" href="https://htmlpreview.github.io/?https://github.com/hurigabor/vonzoholgyek/blob/main/index.html">Itt</a>
